@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @nattynaps
-- 👀 I’m interested in ghosts and cats
-      <br></br>
+
       <img src="https://c.tenor.com/AVZ7-6C1d_QAAAAC/ghost-cat.gif">
 <!---
 nattynaps/nattynaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
